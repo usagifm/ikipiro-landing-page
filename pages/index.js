@@ -58,9 +58,10 @@ export default function Home() {
          <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>Ikipiro - Catat harga jadi mudah.</title>
-    <meta name="description" content="" />
+    <meta name="description" content="Aplikasi pencatatan harga untuk toko kelontong"/>
+  <meta name="keywords" content="Toko, Harga, Ikipiro"/>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
