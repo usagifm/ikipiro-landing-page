@@ -129,7 +129,7 @@ export default function Home() {
                                 </ul>
                             </div> 
                             <div class="button add-list-button">
-                                <a target="_blank" href="https://testflight.apple.com/join/1ZG8iuAp"  class="btn">Get it now</a>
+                                <a  target="_blank" href="https://apps.apple.com/id/app/ikipiro/id6444369537?l=id" class="btn">Get it now</a>
                             </div>
                         </nav>
           
@@ -147,7 +147,7 @@ export default function Home() {
                         <h1 class="wow fadeInLeft" data-wow-delay=".4s">Pakai Ikipiro Catat harga jadi mudah!</h1>
                         <p class="wow fadeInLeft" data-wow-delay=".6s">Mengelola dan berbagi daftar harga jadi lebih mudah dan efisien dengan Ikipiro</p>
                         <div class="button wow fadeInLeft" data-wow-delay=".8s">
-                            <a target="_blank" href="https://testflight.apple.com/join/1ZG8iuAp" class="btn"><i class="lni lni-apple"></i> App Store</a>
+                            <a target="_blank" href="https://apps.apple.com/id/app/ikipiro/id6444369537?l=id" class="btn"><i class="lni lni-apple"></i> App Store</a>
                             {/* <a href="javascript:void(0)" class="btn btn-alt"><i class="lni lni-play-store"></i> Google
                                 Play</a> */}
                         </div>
@@ -448,13 +448,16 @@ export default function Home() {
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-12 col-12">
                     <div class="hero-content">
-                        <h3 class="wow fadeInLeft" data-wow-delay=".4s">Ikipiro segera tersedia di app store</h3>
-                        <p class="wow fadeInLeft mt-3" data-wow-delay=".6s">Saat ini ikipiro baru bisa anda coba dengan testflight, nantikan kami ya!</p>
+                        <h3 class="wow fadeInLeft" data-wow-delay=".4s">Ikipiro telah hadir di app store 😁</h3>
+                        <p class="wow fadeInLeft mt-2" data-wow-delay=".6s">Saat ini ikipiro bisa kamu dapatkan di appstore lho, gunakan dan kabari kami jika ada bug ya!</p>
+                        <div class="col-lg-4 col-md-6 col-6">
+                        <img class="wow fadeInLeft mt-4" src="assets/images/app-store.png" alt="https://apps.apple.com/id/app/ikipiro/id6444369537?l=id" target="_blank" ></img>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-12">
                     <div class="hero-image wow fadeInRight mt-3" data-wow-delay=".4s">
-                        <img src="assets/images/hero/app-7.png" alt="#"></img>
+                        <img src="assets/images/hero/app-7.png" ></img>
                     </div>
                 </div>
             </div>
@@ -470,7 +473,7 @@ export default function Home() {
                         </h2>
                         <p class="wow fadeInUp" data-wow-delay=".4s">Aplikasi Ikipiro tersedia untuk di coba dengan Test Flight pada iOS.</p>
                         <div class="button wow fadeInUp" data-wow-delay=".6s">
-                            <a target="_blank" href="https://testflight.apple.com/join/1ZG8iuAp" class="btn">Coba Sekarang</a>
+                            <a  href="https://apps.apple.com/id/app/ikipiro/id6444369537?l=id" target="_blank" class="btn">Coba Sekarang</a>
                         </div>
                     </div>
                 </div>
