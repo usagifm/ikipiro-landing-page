@@ -471,7 +471,7 @@ export default function Home() {
                     <div class="cta-content">
                         <h2 class="wow fadeInUp" data-wow-delay=".2s">Ayo coba aplikasi Ikipiro!
                         </h2>
-                        <p class="wow fadeInUp" data-wow-delay=".4s">Aplikasi Ikipiro tersedia untuk di coba dengan Test Flight pada iOS.</p>
+                        <p class="wow fadeInUp" data-wow-delay=".4s">Aplikasi Ikipiro tersedia di app store untuk platform iOS.</p>
                         <div class="button wow fadeInUp" data-wow-delay=".6s">
                             <a  href="https://apps.apple.com/id/app/ikipiro/id6444369537?l=id" target="_blank" class="btn">Coba Sekarang</a>
                         </div>
